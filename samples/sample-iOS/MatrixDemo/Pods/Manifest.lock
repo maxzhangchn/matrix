@@ -1,0 +1,24 @@
+PODS:
+  - matrix-wechat (0.6.5):
+    - matrix-wechat/matrixARC (= 0.6.5)
+    - matrix-wechat/matrixNonARC1 (= 0.6.5)
+    - matrix-wechat/matrixNonARC2 (= 0.6.5)
+  - matrix-wechat/matrixARC (0.6.5):
+    - matrix-wechat/matrixNonARC1
+  - matrix-wechat/matrixNonARC1 (0.6.5)
+  - matrix-wechat/matrixNonARC2 (0.6.5):
+    - matrix-wechat/matrixARC
+
+DEPENDENCIES:
+  - matrix-wechat
+
+SPEC REPOS:
+  trunk:
+    - matrix-wechat
+
+SPEC CHECKSUMS:
+  matrix-wechat: 4e8a4047dde97c4634ef782edcd69ce276c5b4ab
+
+PODFILE CHECKSUM: 6865240a7e9af224479a699b5b79d4d4f07870b9
+
+COCOAPODS: 1.10.0

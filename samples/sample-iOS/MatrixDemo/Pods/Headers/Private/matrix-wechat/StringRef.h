@@ -1,0 +1,1 @@
+../../../matrix-wechat/matrix/matrix-iOS/Matrix/WCCrashBlockMonitor/KSCrash/llvm/ADT/StringRef.h

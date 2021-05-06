@@ -1,0 +1,1 @@
+../../../matrix-wechat/matrix/matrix-iOS/Matrix/WCMemoryStat/MemoryLogger/StackFrames/bundle_name_helper.h
