@@ -1,1 +1,0 @@
-../../../matrix-wechat/matrix/matrix-iOS/Matrix/WCMemoryStat/MemoryLogger/memory_logging_adapter.h

@@ -1,1 +1,0 @@
-../../../matrix-wechat/matrix/matrix-iOS/Matrix/Matrix/Util/MatrixPathUtil.h

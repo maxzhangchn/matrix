@@ -1,1 +1,0 @@
-../../../matrix-wechat/matrix/matrix-iOS/Matrix/WCCrashBlockMonitor/KSCrash/swift/SwiftStrings.h
